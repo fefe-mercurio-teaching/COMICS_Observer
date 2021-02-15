@@ -1,0 +1,6 @@
+/Users/fefe/RiderProjects/COMICS_Observer/COMICS_Observer/bin/Debug/COMICS_Observer.exe
+/Users/fefe/RiderProjects/COMICS_Observer/COMICS_Observer/bin/Debug/COMICS_Observer.pdb
+/Users/fefe/RiderProjects/COMICS_Observer/COMICS_Observer/obj/Debug/COMICS_Observer.csprojAssemblyReference.cache
+/Users/fefe/RiderProjects/COMICS_Observer/COMICS_Observer/obj/Debug/COMICS_Observer.csproj.CoreCompileInputs.cache
+/Users/fefe/RiderProjects/COMICS_Observer/COMICS_Observer/obj/Debug/COMICS_Observer.exe
+/Users/fefe/RiderProjects/COMICS_Observer/COMICS_Observer/obj/Debug/COMICS_Observer.pdb
